@@ -1,6 +1,7 @@
 ## 👻 팀 소개
 
 안녕하세요, TEAM NXLL입니다. <br />
+디자인은 [엑토몰](https://acttomall.com/) 참고하였습니다.
 
 <table border>
   <tbody>
